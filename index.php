@@ -13,7 +13,7 @@
   </head>
   <body>
       <h1>Test de la lib fpdf</h1>
-    <h1 class="text-danger">Top des ventes re test sur branche maitre</h1>
+    <h1 class="text-danger">Top des ventes re test sur branche ok maitre</h1>
       <?php
       // Appel de la librairie FPDF
       require('FPDF/fpdf/fpdf.php');
